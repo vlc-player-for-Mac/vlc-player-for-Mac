@@ -1,5 +1,3 @@
----
-
 # VLC Media Player For Mac - The Professional Video & Audio Player
 
 ![VLC](https://img.shields.io/badge/VLC-Media%20Player-orange?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-Mac%20%7C%20Windows%20%7C%20Linux-black?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Free%20%26%20Open%20Source-success?style=for-the-badge) ![Format](https://img.shields.io/badge/Support-All%20Formats-blue?style=for-the-badge)
